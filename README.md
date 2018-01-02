@@ -16,9 +16,8 @@ npm install
 
 After setting up environment, you can start write SCSS in *sass* folder.
 
-Build and watch commands:
+Build commands:
 
 ```
 gulp build
-gulp watch
 ```
